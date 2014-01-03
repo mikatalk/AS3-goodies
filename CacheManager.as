@@ -1,4 +1,4 @@
-package com.jibjab.utils
+package 
 {
 	
 	import flash.display.BitmapData;
