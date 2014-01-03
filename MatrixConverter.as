@@ -3,6 +3,11 @@ package
 	import flash.geom.Matrix;
 	import flash.geom.Matrix3D;
 
+	/** Credits go to Mike Chambers for explaining Matrixes in a blog post:
+	 * http://www.mikechambers.com/blog/2009/09/09/converting-from-a-matrix3d-to-matrix-in-actionscript-3/
+	 * Thanks Boss!
+	**/
+	
 	public class MatrixConverter
 	{
 		public static function matrixToMatrix3D(matrix:Matrix):Matrix3D
